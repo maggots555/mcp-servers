@@ -59,7 +59,7 @@ npm run dev
 
 Para usar este servidor en Antigravity, debes agregar la configuración en tu archivo de configuración MCP:
 
-**Ubicación del archivo**: `C:\Users\chavo\.gemini\antigravity\mcp_config.json`
+**Ubicación del archivo**: `C:\Users\user\.gemini\antigravity\mcp_config.json`
 
 ```json
 {
