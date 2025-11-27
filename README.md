@@ -66,7 +66,7 @@ Para usar este servidor en Antigravity, debes agregar la configuración en tu ar
   "mcpServers": {
     "file-editor-mcp": {
       "command": "node",
-      "args": ["C:\\Users\\chavo\\mcp-servers\\file-editor-mcp\\build\\index.js"],
+      "args": ["C:\\Users\\user\\mcp-servers\\file-editor-mcp\\build\\index.js"],
       "env": {}
     }
   }
